@@ -1,0 +1,9 @@
+[run]
+branch = True
+
+[report]
+show_missing = True
+omit =
+    .env/*
+    */__init__.py
+    tests/*

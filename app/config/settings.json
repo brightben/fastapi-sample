@@ -1,0 +1,5 @@
+{
+  "default": {
+    "dynaconf_include": ["config.json", "static_config.json"]
+  }
+}

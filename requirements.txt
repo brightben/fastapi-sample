@@ -1,0 +1,17 @@
+# Fastapi usage
+fastapi==0.110.0
+prometheus-fastapi-instrumentator==6.1.0
+uvicorn==0.27.1
+
+# General usage
+dynaconf==3.1.11
+pyinstaller==5.13.0
+
+# dev
+flake8==7.0.0
+httpx==0.27.0
+yapf==0.40.2
+pytest==8.1.0
+pytest-cov==4.1.0
+pytest-mock==3.12.0
+pytest-html==4.1.1

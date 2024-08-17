@@ -1,0 +1,34 @@
+{
+  "default": {
+    "TEST": {
+      "COL": "1111",
+      "DATA": "2222"
+    }
+  },
+  "production": {
+    "API": {
+      "IP": "0.0.0.0",
+      "PORT": 55688,
+      "GIT_TAG": "v0.0.1"
+    },
+    "SQL_SERVER": {
+      "IP": "postgresql-ha-pgpool.default.svc.cluster.local",
+      "PORT": "",
+      "USER": "",
+      "PASS": ""
+    }
+  },
+  "testing": {
+    "API": {
+      "IP": "127.0.0.1",
+      "PORT": 8888,
+      "GIT_TAG": "v0.0.0"
+    },
+    "SQL_SERVER": {
+      "IP": "127.0.0.1",
+      "PORT": "5432",
+      "USER": "test",
+      "PASS": "lalala"
+    }
+  }
+}
