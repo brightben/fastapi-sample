@@ -1,0 +1,5 @@
+{
+  "default": {
+    "SLACK_SERVER_URL": "https://hooks.slack.com/services"
+  }
+}

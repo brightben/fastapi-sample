@@ -1,0 +1,11 @@
+.env
+*.log
+Dockerfile*
+.dockerignore
+.git
+.gitignore
+.vscode
+*.swp
+**/__pycache__/**
+**/.git
+**/.env
