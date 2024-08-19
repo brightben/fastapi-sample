@@ -26,6 +26,10 @@ tags_metadata = [
     {
         "name": "sample api",
         "description": "The api for handling sample function."
+    },
+    {
+        "name": "file api",
+        "description": "The api for handling file function."
     }
 ]
 

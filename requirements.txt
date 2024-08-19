@@ -3,6 +3,10 @@ fastapi==0.110.0
 prometheus-fastapi-instrumentator==6.1.0
 uvicorn==0.27.1
 
+# File upload usage
+aiofiles==24.1.0
+python-multipart==0.0.9
+
 # General usage
 dynaconf==3.1.11
 pyinstaller==5.13.0
